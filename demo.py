@@ -4,6 +4,7 @@ Ejemplo de lenguaje python
 autor:Shomira
 """
 import sys
+
 variable = sys.argv[0]
 dato1 = sys.argv[1]
 dato2 = sys.argv[2]

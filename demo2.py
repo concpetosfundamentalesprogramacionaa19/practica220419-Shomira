@@ -3,6 +3,7 @@
 envio el 5 luehgo el 10 y el programa debe dar el resultado 
 """
 import sys
+
 nombre = sys.argv[0]
 dato1 =  sys.argv[1]
 dato2 =  sys.argv[2]
